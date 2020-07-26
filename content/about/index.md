@@ -2,6 +2,9 @@
 title: "About"
 date: 2020-04-30T14:44:01+02:00
 draft: false
+comment:
+  enable: false
+
 ---
 
 # tl;dr
