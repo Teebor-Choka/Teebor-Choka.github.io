@@ -2,9 +2,9 @@ baseURL = "https://Teebor-Choka.github.io/"
 languageCode = "en-UA"
 defaultContentLanguage = "en"
 title = "Teebor's musings"
-theme = "LoveIt"
+theme = "CodeIT"
 disqusShortname = "teeborchoka"
-publishDir = "../Teebor-Choka.github.io"
+publishDir = "./public"
 
 [menu]
   [[menu.main]]
@@ -46,7 +46,7 @@ publishDir = "../Teebor-Choka.github.io"
     version = "0.2.X"
     keywords = ["tech", "philosophy", "ML", "AI", "DevOps", "Computer Science", "Computer Vision"]
     defaultTheme = "auto"       # light|dark|auto
-	description = "Musings of a curious technical mind."
+	description = "Exploring a technical mind."
 
   [params.app]
     noFavicon = false
@@ -74,7 +74,7 @@ publishDir = "../Teebor-Choka.github.io"
     [params.header.title]
       logo = ""
       pre = ""
-      name = "Teebor's musings"
+      name = "Tibor's musings"
       post = ""
 
   # Footer config
@@ -103,7 +103,7 @@ publishDir = "../Teebor-Choka.github.io"
     [params.home.profile]
       enable = true
       gravatarEmail = ""
-      avatarURL = "/images/avatar.png"
+      avatarURL = "/images/avatar.jpeg"
       subtitle = ""
       typeit = true
       social = true
@@ -114,7 +114,7 @@ publishDir = "../Teebor-Choka.github.io"
 
   [params.social]
     GitHub = "Teebor-Choka"
-    Linkedin = ""
+    Linkedin = "tibor-csóka"
     Twitter = ""
     Instagram = ""
     Facebook = ""
@@ -175,7 +175,7 @@ publishDir = "../Teebor-Choka.github.io"
     XMPP = ""
     Matrix = ""
     Bilibili = ""
-    Email = "teebor.choka@gmail.com"
+    Email = "csokat+Teebor-Choka.github.io@gmail.com"
     RSS = true
 
   [params.page]
@@ -403,8 +403,8 @@ publishDir = "../Teebor-Choka.github.io"
     endLevel = 6
 
 [author]
-  name = "Teebor Choka"
-  email = "teebor.choka@gmail.com"
+  name = "Tibor Csóka"
+  email = "csokat+Teebor-Choka.github.io@gmail.com"
   link = ""
 
 [sitemap]
